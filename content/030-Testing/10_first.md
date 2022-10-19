@@ -1,5 +1,5 @@
 ---
-title: "Explore Live Call Analysis and Agent Assist Features"
+title: "Explore Live Call Analysis Features"
 chapter: false
 weight: 10
 ---
