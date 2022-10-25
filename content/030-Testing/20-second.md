@@ -14,3 +14,5 @@ Our Agent Assist capabilities are enabled using [QnABot on AWS](https://aws.amaz
 4. As you say certain phrases in the script, you should see messages labelled AGENT_ASSISTANT as they appear in the transcript in near real time. These messages would help guide the agent to respond to the caller. 
 
 Think about the concepts at work in this example and consider how you could apply them to your own contact center scenarios.
+
+For much further detail on how to customize and extend the capabilities, see our [Agent Assist README](https://github.com/aws-samples/amazon-transcribe-live-call-analytics/blob/main/lca-agentassist-setup-stack/README.md). We plan to add more capabilities to the LCA Agent Assistant in future releases. Please share what features would be important to your business. //note: where would they share this feedback?
