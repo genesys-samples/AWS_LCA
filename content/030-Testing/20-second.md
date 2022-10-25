@@ -4,4 +4,13 @@ chapter: false
 weight: 20
 ---
 
-## Add Stuff Here
+## Explore Agent Assist Features
+Our Agent Assist capabilities are enabled using [QnABot on AWS](https://aws.amazon.com/solutions/implementations/qnabot-on-aws/). In summary, QnABot will orchestrate Amazon Lex and Amazon Kendra to provide intent matching, context capture, and knowledge base search capabilities used for Agent Assist. In the administrative UI, Content Designer, you can configure how messages are generated for your agents. While there are other options for implementing Agent Assist with AWS, such as integrating your own Amazon Lex Bot or using AWS Lambda Functions, let's check out what the implementation we just set up can do. 
+
+1. Open and Review the [Agent Assist demo script](https://github.com/aws-samples/amazon-transcribe-live-call-analytics/blob/main/lca-agentassist-setup-stack/agent-assist-demo-script.md)
+2. Make a phone call to the demo Asterisk server and open the live call // note: This needs to be explained more; where do I find number to call? 
+3. Play the role of the caller from the demo script dialog
+    - It's best to get a friend to play the role of the agent. Your agent friend will use their Genesys Cloud CX softphone to answer your call and speak the lines from the script. If you can't do that, it's okay! You can still test Agent Assist by just playing the role of the caller. 
+4. As you say certain phrases in the script, you should see messages labelled AGENT_ASSISTANT as they appear in the transcript in near real time. These messages would help guide the agent to respond to the caller. 
+
+Think about the concepts at work in this example and consider how you could apply them to your own contact center scenarios.
