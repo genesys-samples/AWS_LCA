@@ -1,16 +1,14 @@
 ---
-title: "Genesys Workshop"
+title: "AWS Live Call Analytics with Agent Assist using Genesys Cloud CX Audiohook"
 chapter: true
 weight: 1
 ---
 
-# Genesys Workshop
+# Welcome to the Genesys and AWS Joint Workshop on Live Call Analytics
 
-### Welcome
+## PreRequisites
 
-In this workshop you will learn to apply your foundational knowledge of [Genesys](https://genesys.com) and master example use cases that demonstrate [Experience as a Service](https://www.genesys.com/experience-as-a-service).
-
-### Learning Objectives
+## Learning Objectives
 - Setup and configure your environment.
 - Creating users and groups.
 - Configure security.
