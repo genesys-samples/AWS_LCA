@@ -5,4 +5,4 @@ weight: 10
 ---
 
 # Genesys Workshop Series
-
+![Architecture](/images/architecture.png)
