@@ -1,5 +1,5 @@
 ---
-title: "Explore Agent Assist Features"
+title: "Explore LCA Dashboard"
 chapter: false
 weight: 20
 ---

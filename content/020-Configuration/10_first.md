@@ -16,7 +16,7 @@ Enter the following parameters and leave the ones not specified here blank:
 
 **Web UI Authentication** 
 - Admin Email Address: The email address of the admin user to be used to log into the web UI. This should be your login email.
-- Authorized Account Email Domain (Optional): Enter the email domain that is allowed to sign up and sign in using the webUI. For example, you might limit it to just people who have your corporate email domain.
+- Authorized Account Email Domain (Optional): Enter the email domain that is allowed to sign up and sign in using the WebUI. For example, you might limit it to just people who have your corporate email domain.
 
 **Telephony Ingestion Options**
 - Call Audio Source:  Choose Genesys Cloud Audiohook Web Socket
