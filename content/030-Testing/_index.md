@@ -14,4 +14,4 @@ For the LCA dashboard, simply provide your email and the temporary password prov
 
 For the QNABot dashboard, your username will be "Admin" and then you will use the temporary password provided. You will then be able to set a permanent password. 
 
-To manage the users who have access to these dashboards, use Amazon Cognito. 
+To manage the users who have access to these dashboards, use Amazon Cognito. If you do not have access because you are not the Admin, you should reach out to the Admin to create a login for you.

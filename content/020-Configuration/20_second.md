@@ -22,3 +22,5 @@ To configure Audiohook in Genesys Cloud CX, follow these steps:
     - Repeat the step for the Client secret
     ![Secret](/images/secret.jpg)
 7. Press save and Activate the integration! 
+
+Note: You'll need to ensure that you have transcription enabled in Genesys Cloud CX for this use case to work. To learn about how to enable transcription, navigate to this resource page. https://help.mypurecloud.com/articles/configure-voice-transcription/
