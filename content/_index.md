@@ -1,16 +1,20 @@
 ---
-title: "Genesys Workshop"
+title: "AWS Live Call Analytics with Agent Assist using Genesys Cloud CX Audiohook"
 chapter: true
 weight: 1
 ---
 
-# Genesys Workshop
+# Welcome to the Genesys and AWS Joint Workshop on Live Call Analytics
 
-### Welcome
+## Prerequisites
+-	Have access to your own Genesys Cloud Org (Not GDemo)with permissions to create an integration
+-	Have access to an AWS Account with administrator Access permissions
+-	Have a basic knowledge of Genesys Cloud, and AWS
 
-In this workshop you will learn to apply your foundational knowledge of [Genesys](https://genesys.com) and master example use cases that demonstrate [Experience as a Service](https://www.genesys.com/experience-as-a-service).
+## Learning Objectives
+- Develop an understanding of how to create an AudioHook integration
+- Be able to successfully configure and deploy your integration 
+- Understand how to access the LCA Desktop and QnABot builder. 
+- Develop a basic understanding of how to utilize the LCA Desktop
+- Develop a basic understanding of how to configure a QnABot
 
-### Learning Objectives
-- Setup and configure your environment.
-- Creating users and groups.
-- Configure security.
