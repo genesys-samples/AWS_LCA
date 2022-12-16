@@ -6,9 +6,15 @@ weight: 1
 
 # Welcome to the Genesys and AWS Joint Workshop on Live Call Analytics
 
-## PreRequisites
+## Prerequisites
+-	Have access to your own Genesys Cloud Org (Not GDemo)with permissions to create an integration
+-	Have access to an AWS Account with administrator Access permissions
+-	Have a basic knowledge of Genesys Cloud, and AWS
 
 ## Learning Objectives
-- Setup and configure your environment.
-- Creating users and groups.
-- Configure security.
+- Develop an understanding of how to create an AudioHook integration
+- Be able to successfully configure and deploy your integration 
+- Understand how to access the LCA Desktop and QnABot builder. 
+- Develop a basic understanding of how to utilize the LCA Desktop
+- Develop a basic understanding of how to configure a QnABot
+
