@@ -10,6 +10,7 @@ weight: 1
 -	#### Have access to your own Genesys Cloud Org (Not GDemo)with permissions to create an integration
 -	#### Have access to an AWS Account with administrator Access permissions
 -	#### Have a basic knowledge of Genesys Cloud, and AWS
+-   #### Have an existing and functional call flow and queue that you can call into, to test the integration
 
 ## Learning Objectives
 - #### Develop an understanding of how to create an AudioHook integration
