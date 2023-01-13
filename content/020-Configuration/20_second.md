@@ -14,12 +14,13 @@ To configure Audiohook in Genesys Cloud CX, follow these steps:
 3. Click to install the integration, give it a descriptive name and then navigate to the Configuration > Properties tab.
     - For the Channel selection, choose "Both"
 
-![Audiohooksetup](/AWS_LCA/static/images/Integrations.png)
+![Audiohooksetup](/images/Integrations.png)
 
 4. To get the Connection URI, navigate back to AWS > search for Cloudfront > Stacks > Choose the "LCA" Stack > and then click on Outputs > find the "WebSocketEndpoint" value
 ![Web Socket Endpoint](/images/webSocketEndpoint.jpg)
     - Copy and paste this value back into the Connection URI field in your AudioHook integration
 5. In the AudioHook integration configuration, navigate to Credentials
+![Configaudiohook.png](/images/configaudiohook.png)
 6. To get the API Key and Client Secret, navigate back to AWS > Secrets Manager > Click on the secret that ends in API key > Click on Retrieve secret value
     - copy this value into the corresponding Credentials field in Genesys Cloud CX
     - Repeat the step for the Client secret
