@@ -53,6 +53,7 @@ defaultContentLanguageInSubdir= true
 
 [Languages]
 [Languages.en]
+contentDir = 'content/en-US'
 title = "Documentation for Hugo Learn Theme"
 weight = 1
 languageName = "English"
